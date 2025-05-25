@@ -5,6 +5,7 @@ I'm a developer and researcher with experience in **data science**, **applied ma
 ## 💼 Experience & Projects
 - 🧠 Worked on **agentic AI** and enhanced **Retrieval-Augmented Generation (RAG)** techniques to improve reasoning and factual accuracy in generative systems.
 - ⚙️ Built an **automated forecasting pipeline** to predict business metrics at scale, enabling data-driven decisions through end-to-end integration and modeling.
+- 🤖 Developed a reinforcement learning framework enabling autonomous agents to self-regulate by modeling internal states with optimal control theory and neural function approximation.
 - 🧮 Created a **mathematical computation tool** to support researchers working with non-standard algebraic structures, enabling more efficient experimentation and hypothesis testing.
 - 💰 Developed a **personal finance app** to help users track expenses, analyze spending habits, and gain insights into budgeting.
 - 🎬 Built a **movie recommendation system** using collaborative filtering techniques to provide personalized suggestions based on user preferences and viewing history.
