@@ -29,7 +29,7 @@ I'm exploring how language models can be engineered to act as reliable, modular 
 </p>
 
 ## 📫 Let’s Connect  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riddhi-z)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riddhi-z-225030221)  
 
 Check out my repositories to see what I’ve been working on, and feel free to reach out if you’d like to collaborate or discuss ideas!
 
