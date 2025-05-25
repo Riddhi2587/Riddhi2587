@@ -14,7 +14,6 @@ I'm a developer and researcher with experience in **data science**, **applied ma
 I'm exploring how language models can be engineered to act as reliable, modular components in software systems.
 
 ## 🛠️ Tech Stack  
-## 🛠️ Tech Stack  
 
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
