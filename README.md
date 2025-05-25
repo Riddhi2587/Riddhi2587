@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Riddhi
 
-<!--
-**Riddhi2587/Riddhi2587** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer and researcher with experience in **data science**, **applied machine learning**, and a strong interest in **software development**. I enjoy working on projects that combine theoretical depth with real-world impact.
 
-Here are some ideas to get you started:
+## 💼 Experience & Projects
+- 🧠 Worked on **agentic AI** and enhanced **Retrieval-Augmented Generation (RAG)** techniques to improve reasoning and factual accuracy in generative systems.
+- ⚙️ Built an **automated forecasting pipeline** to predict business metrics at scale, enabling data-driven decisions through end-to-end integration and modeling.
+- 🧮 Created a **mathematical computation tool** to support researchers working with non-standard algebraic structures, enabling more efficient experimentation and hypothesis testing.
+- 💰 Developed a **personal finance app** to help users track expenses, analyze spending habits, and gain insights into budgeting.
+- 🎬 Built a **movie recommendation system** using collaborative filtering techniques to provide personalized suggestions based on user preferences and viewing history.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Interests & Learning Goals
+I'm exploring how language models can be engineered to act as reliable, modular components in software systems.
+
+## 📫 Let’s Connect
+Check out my repositories to see what I’ve been working on, and feel free to reach out if you’d like to collaborate or discuss ideas!
+
+---
