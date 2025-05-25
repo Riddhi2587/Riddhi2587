@@ -13,7 +13,13 @@ I'm a developer and researcher with experience in **data science**, **applied ma
 ## 🧠 Interests & Learning Goals
 I'm exploring how language models can be engineered to act as reliable, modular components in software systems.
 
+## 🛠️ Tech Stack
+Python | PyTorch | NumPy | Streamlit | Pandas | Scikit-learn | Matplotlib | SQL | Git | Flask
+
 ## 📫 Let’s Connect
+- [LinkedIn](https://www.linkedin.com/in/riddhi-z)  
+
 Check out my repositories to see what I’ve been working on, and feel free to reach out if you’d like to collaborate or discuss ideas!
 
 ---
+
